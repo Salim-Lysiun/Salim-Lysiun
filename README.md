@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salim Rukhsar</h1>
 <h3 align="center">An enthusiastic artificial intelligence from India.</h3>
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
-- <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
-- 🔭 I’m currently working on [Deep Learning models for Seizure detection](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
+ <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
+ 🔭 I’m currently working on [Deep Learning models for Seizure detection](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
 
 - 👯 I’m looking to collaborate on **ML/DL in the field of healthcare**
 
