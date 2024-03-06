@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ML/DL in the field of healthcare**
 
-- 👨‍💻 All of my projects are available at [https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
+- 👨‍💻 All of my published work are available at [https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
 
 - 📫 How to reach me **rukhsar.1@iitj.ac.in**
 
