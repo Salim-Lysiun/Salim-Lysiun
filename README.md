@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salim Rukhsar</h1>
 <h3 align="center">An enthusiastic artificial intelligence from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim-lysiun" alt="salim-lysiun" /></a> </p>
-
+- <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
 - 🔭 I’m currently working on [Deep Learning models for Seizure detection](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
 
 - 👯 I’m looking to collaborate on **ML/DL in the field of healthcare**
@@ -14,8 +11,11 @@
 - 📫 How to reach me **rukhsar.1@iitj.ac.in**
 
 - ⚡ Fun fact **I am introvert**
-- <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
-- 
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim-lysiun" alt="salim-lysiun" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/salimrukhsar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/salimrukhsar1" height="30" width="40" /></a>
