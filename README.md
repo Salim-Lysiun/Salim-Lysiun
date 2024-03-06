@@ -3,7 +3,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
  <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
- 🔭 I’m currently working on [Deep Learning models for Seizure detection]
+ 🔭 I’m currently working on **Advanced deep learning models for seizure detection**
 
 - 👯 I’m looking to collaborate on **ML/DL in the field of healthcare**
 
