@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rukhsar.1@iitj.ac.in**
 
-- ⚡ Fun fact **I am introvert**
+- ⚡ Fun fact **I am funny**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salim-lysiun" alt="salim-lysiun" /></a> </p>
 
