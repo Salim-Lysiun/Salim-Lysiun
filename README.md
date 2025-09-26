@@ -3,8 +3,9 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=salim-lysiun&label=Profile%20views&color=0e75b6&style=flat" alt="salim-lysiun" /> </p>
  <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
- 🔭 I’m currently working on MR Image reconstruction and quality enhancement Advanced deep learning models.
-
+ 
+ 🔭 I’m currently working on MR image reconstruction, quality enhancement, and advanced deep learning models.
+ 
 - 👯 I’m looking to collaborate on **ML/DL in the field of healthcare**
 
 - 👨‍💻 All of my published work are available at [https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
