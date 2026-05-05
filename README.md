@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my published work are available at [https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en](https://scholar.google.com/citations?user=FyVcxgMAAAAJ&hl=en)
 
-- 📫 How to reach me **rukhsar.1@iitj.ac.in**
+- 📫 How to reach me **itsrsalim@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
